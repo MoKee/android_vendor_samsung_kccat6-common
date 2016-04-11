@@ -381,7 +381,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kccat6-common/proprietary/etc/firmware/rampatch_tlv_2.1.tlv:system/etc/firmware/rampatch_tlv_2.1.tlv \
     vendor/samsung/kccat6-common/proprietary/etc/firmware/rampatch_tlv_3.0.tlv:system/etc/firmware/rampatch_tlv_3.0.tlv \
     vendor/samsung/kccat6-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
-    vendor/samsung/kccat6-common/proprietary/vendor/firmware/BT_FW_VER_rampatch_tlv_2.1.tlv:system/vendor/firmware/BT_FW_VER_rampatch_tlv_2.1.tlv \
     vendor/samsung/kccat6-common/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/samsung/kccat6-common/proprietary/vendor/lib/rfsa/adsp/libadsp_fd_skel.so:system/vendor/lib/rfsa/adsp/libadsp_fd_skel.so \
     vendor/samsung/kccat6-common/proprietary/vendor/lib/rfsa/adsp/libapps_mem_heap.so:system/vendor/lib/rfsa/adsp/libapps_mem_heap.so \

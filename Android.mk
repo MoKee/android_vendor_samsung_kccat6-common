@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter lentislte lentisltelgt lentisltektt lentislteskt kccat6,$(TARGET_DEVICE)),)
+ifneq ($(filter kccat6,$(TARGET_DEVICE)),)
 
 
 include $(CLEAR_VARS)
